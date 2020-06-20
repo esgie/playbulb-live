@@ -8,7 +8,7 @@
     "url": "https://github.com/danielsmith-eu/playbulb-live.git"
   },
   "dependencies": {
-    "noble": "^0.3.14"
+    "@abandonware/noble": "^1.9.2-9"
   },
   "devDependencies": {},
   "scripts": {
