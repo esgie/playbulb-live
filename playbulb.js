@@ -1,5 +1,5 @@
 'use strict';
-var noble = require('noble');
+var noble = require('@abandonware/noble');
 
 var SETCOLOR = -1;
 var types = {
